@@ -57,4 +57,8 @@ Collaborated with three other team members to develop a fully working desktop ap
 </li><li>Good presentation and communication skills.  
 </li></ul>
 
+<h3>Scholarships</h3>
+<ul><li>Sept. 2021 - Feb. 2022, JetBrains company
+</li></ul>
+
 </body></html>
