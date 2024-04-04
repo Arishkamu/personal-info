@@ -11,7 +11,9 @@
 <h2>Education</h2>
 <dl><dt>2022 - present</dt><dd>
 University Higher School of Economics (St. Petersburg), <br> 
-Bachelor of Mathematics, Physics and Computer Science (GPA: 7.58 / 10.0) 
+Bachelor of Mathematics, Physics and Computer Science (GPA: 7.58 / 10.0) <br> 
+Relevant Coursework: Data Structures and Algorithms (C++), Computer Architecture (C/assembler), <br>
+Operating Systems (C/C++), Functional programming (Haskell), Graph Theory, Probability Theory, Calculus (advanced level)
 </dd></dl>
 <dl><dt>2018 - 2022</dt><dd>
 Lyceum "Physical-Technical High School" named after Zh. I. Alfyorov. 
@@ -37,7 +39,9 @@ Collaborated with three other team members to develop a fully working desktop ap
 
 <h2>Professional skills</h2>
 <h3>Programming languages</h3>
-<ul><li>C/C++, Java, Python, sh/bash, assemblers, SQL;  
+<ul><li>Experienced: C++, Java 
+</li><li>Daily used: sh/bash
+</li><li>Academic purposes: C, Python, Haskell, SQL, assembler
 </li></ul>
 
 <h3>OS</h3>
