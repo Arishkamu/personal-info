@@ -12,12 +12,15 @@
 <dl><dt>2022 - present</dt><dd>
 University Higher School of Economics (St. Petersburg), <br> 
 Bachelor of Mathematics, Physics and Computer Science (GPA: 7.58 / 10.0) <br> 
+<a href="https://spb.hse.ru/en/" target="_blank">https://spb.hse.ru/en/</a> <br>
 Relevant Coursework: Data Structures and Algorithms (C++), Computer Architecture (C/assembler), <br>
-Operating Systems (C/C++), Functional programming (Haskell), Graph Theory, Probability Theory, Calculus (advanced level)
+Operating Systems (C/C++), Functional programming (Haskell), Graph Theory, Probability Theory, Calculus (advanced level), <br>
+Linear Algebra and Geometry
 </dd></dl>
 <dl><dt>2018 - 2022</dt><dd>
-Lyceum "Physical-Technical High School" named after Zh. I. Alfyorov. 
-High school.
+Lyceum "Physical-Technical High School" named after Zh. I. Alfyorov. <br>
+<a href="http://www.school.ioffe.ru/readings/pths_about_en.html" target="_blank">http://www.school.ioffe.ru/readings/pths_about_en.html</a> <br>
+High school with advanced study of mathematics, informatics and physics <br>
 </dd></dl>
 
 <h2>Experience</h2>
@@ -30,10 +33,12 @@ Develop and maintain database
 </dd></dl>
 
 <dl><dt>Feb 2023 - June 2023</dt><dd>
-Messenger Desktop App<br>
-Designed a responsive user interface using QT software<br>
-Developed 20+ new features to enhance user experience, including testing the application functionality<br>
-Automated project build processes with Cmake and successfully merged with other co-workers<br>
+Messenger Desktop App (C++)<br>
+<a href="https://github.com/Arishkamu/Messenger-project" target="_blank">https://github.com/Arishkamu/Messenger-project</a> <br>
+Technologies used: Qt, sqlite3, Botan (encryption) <br>
+Designed and implemented the user interface (GUI) using Qt software <br>
+Developed 20+ new features to enhance user experience, including testing the application functionality <br>
+Automated the process of building a cross-platform (MacOs, Linux) project using Cmake and successfully merged<br>
 Collaborated with three other team members to develop a fully working desktop application
 </dd></dl>
 
