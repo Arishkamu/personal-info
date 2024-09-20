@@ -25,8 +25,15 @@ High school with advanced study of mathematics, informatics and physics <br>
 
 <h2>Experience</h2>
 
-<dl><dt>Feb 2024 - present</dt><dd>
-Sport Android App<br>
+<dl><dt>Jule 2024 - Aug 2024 </dt><dd>
+Validas (<a href="https://www.validas.de/en/" target="_blank">https://www.validas.de/en/</a>)<br>
+Software testing. Research project<br>
+</dd></dl>
+
+<dl><dt>Feb 2024 - June 2024</dt><dd>
+Sport Android App (Java)<br>
+<a href="https://github.com/Arishkamu/sport-app-project" target="_blank">https://github.com/Arishkamu/sport-app-project</a> <br>
+Technologies used: Spring Fraemwork<br>
 Back-end developer<br>
 Designed and implemente network environment, ensured compliance with network security standards.<br> 
 Develop and maintain database
